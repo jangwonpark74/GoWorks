@@ -8,6 +8,9 @@
 
 ### Golang Programs
  - [Golan Programs](http://www.golangprograms.com/)
+ 
+### Go test and coverage
+ - [Go cover](https://blog.golang.org/cover)
 
 ### Go module
  - [Go module roadmap](https://blog.golang.org/modules2019)
