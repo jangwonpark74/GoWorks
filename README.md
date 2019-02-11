@@ -33,6 +33,7 @@
  
 ### Go Restful API tutorial
  - [Codementor Go Restful API handling](https://www.codementor.io/codehakase/building-a-restful-api-with-golang-a6yivzqdo)
+ - [Go Restful API server 개발기](https://www.slideshare.net/Hyejong/golang-restful)
 
 ### Golang Restful API using GORM and Gorilla Mux
  - [RESTful Web API](http://www.golangprograms.com/advance-programs/golang-restful-api-using-grom-and-gorilla-mux.html)
