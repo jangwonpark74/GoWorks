@@ -1,5 +1,9 @@
 # GoLangStudy
 
+
+## Learning Go - Miek Gieben
+ - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
+ 
 ## Go Lang Tutorial Site
  - [learn go tutorials](https://stackify.com/learn-go-tutorials/)
  
@@ -13,7 +17,7 @@
  - [Golan Programs](http:/www.golangprograms.com/)
 
 ### Go Coding Convention
- - [Unknow/go-code-convention](https://github.com/Unknwon/go-code-convention/blob/master/en-US/README.md)
+ - [Unknow/go-code-convention](https://github.com/Unknwon/go-code-convention/blob/master/en-US/README.md) : For production level coding 
 
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
