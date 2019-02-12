@@ -10,6 +10,9 @@
 ## Go : the Good, the Bad and the Ugly
  - [the Good, the Bad and the Ugly](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)
 
+## Go best practice
+ - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
+
 ## Build Web Application with Golang
  - [Git book for Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
 
