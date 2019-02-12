@@ -12,7 +12,7 @@
 
 ## Go best practice
  - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
- - [Naming Convention](https://talks.golang.org/2014/names.slide#1)
+ - [Andrew Gerrand’s idiomatic Naming Convention](https://talks.golang.org/2014/names.slide#1)
 
 ## Build Web Application with Golang
  - [Git book for Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
