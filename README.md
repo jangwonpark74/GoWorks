@@ -51,3 +51,7 @@
 
 ### Gorm for Postgresql 
  - [Managing Data in Golang Using Gorm](http://blog.tamizhvendan.in/blog/2017/07/23/managing-data-in-golang-using-gorm-part-1/)
+ 
+### Go 2.0 
+ - [Go 2.0 and Module](http://callistaenterprise.se/assets/presentationer/cadec-2019-go.pdf)
+
