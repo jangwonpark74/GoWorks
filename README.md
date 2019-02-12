@@ -16,7 +16,7 @@
  - [Peter Bourgon's Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
 
 ## Go Editor 
- -  Visual Studio Code + vscode-go(https://github.com/Microsoft/vscode-go)
+ -  Visual Studio Code + [vscode-go](https://github.com/Microsoft/vscode-go)
 
 ## Build Web Application with Golang
  - [Git book for Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
