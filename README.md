@@ -6,8 +6,8 @@
  
 ### go builtin 
  - Try following commands 
-  $ godoc builtin | more
-  $ godoc net/http | more
+ - $ godoc builtin | more
+ - $ godoc net/http | more
  
 ## Go Lang Tutorial Site
  - [learn go tutorials](https://stackify.com/learn-go-tutorials/)
