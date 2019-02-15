@@ -32,7 +32,7 @@
 
 ### Go Assembly 
  - [Quick guide to assembly](https://golang.org/doc/asm)
- assembly method :  $go tool compile -S <go_src.go>
+ - assembly method :  $go tool compile -S <go_src.go>
 
 
 ### Go Logging with uber zap
