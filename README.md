@@ -34,6 +34,7 @@
  - [Quick guide to assembly](https://golang.org/doc/asm)
  - [Rob Pike's talk on go assembly](https://talks.golang.org/2016/asm.slide#1)
  - [go asm complete reference](https://quasilyte.github.io/blog/post/go-asm-complementary-reference/)
+ - [SIMD optimization in go](https://goroutines.com/asm)
  - assembly method :  $go tool compile -S <go_src.go>
 
 
