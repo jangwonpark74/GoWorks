@@ -29,12 +29,17 @@
 
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
- 
-## Go Logging with uber zap
+
+### Go Assembly 
+ - [Quick guide to assembly](https://golang.org/doc/asm)
+ assembly method :  $go tool compile -S <go_src.go>
+
+
+### Go Logging with uber zap
  - [golang log library zap](https://github.com/golangkorea/gophercon-talks/blob/master/slides/201901/golang-log-library-zap.pdf)
 
 ### Go module
- - [Go module roadmap](https://blog.golang.org/modules2019)
+ - [Go module roadmap](https://blog.golang.org/modules2019) 
  
 ### Go module by example
  - [Go module example](https://github.com/go-modules-by-example/index)
