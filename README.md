@@ -29,6 +29,9 @@
 
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
+ 
+## Go Logging with uber zap
+ - [golang log library zap](https://github.com/golangkorea/gophercon-talks/blob/master/slides/201901/golang-log-library-zap.pdf)
 
 ### Go module
  - [Go module roadmap](https://blog.golang.org/modules2019)
