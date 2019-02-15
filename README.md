@@ -30,6 +30,9 @@
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
 
+## Go Compiler
+ - [Rob Pike's Lexical Scanning in Go](https://talks.golang.org/2011/lex.slide#1)
+
 ### Go Assembly 
  - [Quick guide to assembly](https://golang.org/doc/asm)
  - [Rob Pike's talk on go assembly](https://talks.golang.org/2016/asm.slide#1)
