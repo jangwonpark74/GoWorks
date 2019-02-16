@@ -76,7 +76,7 @@
 
 ## Go runtime 
 ### Go Garbage Collection
-```
+```go
  var mem runtime.MemStats 
  printStats(mem) 호출
  printStats(mem runtime.MemStats) {
