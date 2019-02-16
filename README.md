@@ -82,7 +82,7 @@
 ## Go runtime 
 ### Go Garbage Collection Algorithm
  - tricolor mark-and-sweep algorithm (GO GC algorithm)
-   On-the-fly Garbage Collection: An Exercise in Cooperation 논문에서 처음 발표됨 
+ - On-the-fly Garbage Collection: An Exercise in Cooperation 논문에서 처음 발표됨 
 ### Go Garbage Collection
 
 check runtime Garbage Stats implementation
