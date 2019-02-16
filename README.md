@@ -12,11 +12,15 @@
  - $ godoc net/http | more
  
 ### Go tool compile
- - $ go tool compile unsafe.go  (object file 생성)
- - $ go tool compile -pack unsafe.go (archive file 생성)
- - $ go tool compile -race unsafe.go (race condition 감지)
- - $ go tool compile -S unsafe.go (assembly)
+```
+ $ go tool compile unsafe.go  (object file 생성)
+ $ go tool compile -pack unsafe.go (archive file 생성)
+ $ go tool compile -race unsafe.go (race condition 감지)
+ $ go tool compile -S unsafe.go (assembly)
+ $ go tool compile -W hello.go (node tree 생성)
  
+```
+
 ## Go Lang Tutorial Site
  - [learn go tutorials](https://stackify.com/learn-go-tutorials/)
  
