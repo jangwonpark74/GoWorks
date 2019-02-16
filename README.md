@@ -11,6 +11,12 @@
  - $ godoc builtin | more
  - $ godoc net/http | more
  
+### Go tool compile
+ - $ go tool compile unsafe.go  (object file 생성)
+ - $ go tool compile -pack unsafe.go (archive file 생성)
+ - $ go tool compile -race unsafe.go (race condition 감지)
+ - $ go tool compile -S unsafe.go (assembly)
+ 
 ## Go Lang Tutorial Site
  - [learn go tutorials](https://stackify.com/learn-go-tutorials/)
  
@@ -50,7 +56,6 @@
 ### Debugging Go Code with GDB
  - [gdb](https://golang.org/doc/gdb)
 
-
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
 
@@ -66,11 +71,21 @@
  - [go Compiler Explorer](https://go.godbolt.org/)
  - assembly method :  $go tool compile -S <go_src.go>
 
-
 ### Go Logging with uber zap
  - [golang log library zap](https://github.com/golangkorea/gophercon-talks/blob/master/slides/201901/golang-log-library-zap.pdf)
 
-### Go module
+## Go runtime 
+### Go Garbage Collection
+```
+ var mem runtime.MemStats 
+ printStats(mem) 호출
+ printStats(mem runtime.MemStats) {
+   runtime.ReadMemStats(&mem)
+   ...
+ }
+```
+
+## Go module
  - [Go module roadmap](https://blog.golang.org/modules2019) 
  
 ### Go module by example
@@ -89,7 +104,6 @@
 
 ### Go gRPC
  - [gopher academy on gRPC](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
-
 
 ### Go Microservice
  - [Go Microservice Blog Series](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
