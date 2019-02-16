@@ -18,6 +18,7 @@
  - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
  - [Andrew Gerrand’s idiomatic Naming Convention](https://talks.golang.org/2014/names.slide#1)
  - [Peter Bourgon's Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
+ - [Phil Estes's 4 tips for learning Golang](https://opensource.com/article/18/11/learning-golang)
 
 ## Go Editor 
  -  Visual Studio Code + [vscode-go](https://github.com/Microsoft/vscode-go)
