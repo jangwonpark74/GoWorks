@@ -36,6 +36,11 @@
  - [Unknow/go-code-convention](https://github.com/Unknwon/go-code-convention/blob/master/en-US/README.md) : For production level coding 
 
 
+## Go Example Program
+
+### Go chat bot
+ - [Go:code that grows with grace](https://talks.golang.org/2012/chat.slide#1)
+
 ### Debugging Go Code with GDB
  - [gdb](https://golang.org/doc/gdb)
 
