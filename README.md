@@ -41,6 +41,12 @@
 ### Go chat bot
  - [Go:code that grows with grace](https://talks.golang.org/2012/chat.slide#1)
 
+### Go for Pythonistas
+ - [Go vs Python](https://talks.golang.org/2013/go4python.slide#1)
+
+### Advanced Go Concurrency
+ - [Advanced Go Concurrency](https://talks.golang.org/2013/advconc.slide#1)
+
 ### Debugging Go Code with GDB
  - [gdb](https://golang.org/doc/gdb)
 
