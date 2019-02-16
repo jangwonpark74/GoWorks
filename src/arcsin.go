@@ -1,9 +1,8 @@
 package main
 
 import "fmt"
-
-func Asin(x float64) float64
+import "math"
 
 func main() {
-	fmt.Println(Asin(1))
+	fmt.Println(math.Asin(1))
 }
