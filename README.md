@@ -53,8 +53,13 @@
 ### Advanced Go Concurrency
  - [Advanced Go Concurrency](https://talks.golang.org/2013/advconc.slide#1)
 
-### Debugging Go Code with GDB
+## Debugging Go Code with GDB
  - [gdb](https://golang.org/doc/gdb)
+
+### Garbage collection 
+```
+ $GODEBUG=gctrace=1 go run gColl.go
+```
 
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
@@ -76,9 +81,9 @@
 
 ## Go runtime 
 ### Go Garbage Collection
+
+check runtime Garbage Stats implementation
 ```go
- var mem runtime.MemStats 
- printStats(mem) 호출
  printStats(mem runtime.MemStats) {
    runtime.ReadMemStats(&mem)
    ...
