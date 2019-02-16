@@ -4,8 +4,7 @@
 ## Learning Go - Miek Gieben
  - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
  
-### go builtin 
- - Try following commands 
+### Check go builtin first
  - $ godoc builtin | more
  - $ godoc net/http | more
  
@@ -31,6 +30,11 @@
 
 ### Go Coding Convention
  - [Unknow/go-code-convention](https://github.com/Unknwon/go-code-convention/blob/master/en-US/README.md) : For production level coding 
+
+
+### Debugging Go Code with GDB
+ - [gdb](https://golang.org/doc/gdb)
+
 
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
