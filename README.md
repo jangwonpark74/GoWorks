@@ -87,6 +87,10 @@
 ### Golang Restful API using GORM and Gorilla Mux
  - [RESTful Web API](http://www.golangprograms.com/advance-programs/golang-restful-api-using-grom-and-gorilla-mux.html)
 
+### Go gRPC
+ - [gopher academy on gRPC](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
+
+
 ### Go Microservice
  - [Go Microservice Blog Series](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
 
