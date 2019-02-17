@@ -103,6 +103,9 @@ func main() {
 ## Go Compiler
  - [Rob Pike's Lexical Scanning in Go](https://talks.golang.org/2011/lex.slide#1)
 
+### Go Parser (goyacc)
+ - [PlanetScale's CTO on go parser](https://www.youtube.com/watch?v=NG0s3-s3whY)
+
 ### Go Assembly 
  - [Quick guide to assembly](https://golang.org/doc/asm)
  - [Rob Pike's talk on go assembly](https://talks.golang.org/2016/asm.slide#1)
