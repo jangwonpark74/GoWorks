@@ -21,6 +21,38 @@
  
 ```
 
+### Got tool trace
+- example runtime_trace.go file for trace
+```
+package main
+
+import (
+	"os"
+	"runtime/trace"
+)
+
+func main() {
+	trace.Start(os.Stderr)
+	defer trace.Stop()
+
+	ch := make(chan int)
+
+	go func() {
+		ch <-42
+	}()
+	
+	<-ch
+
+```
+
+-executing go tool trace 
+```
+ $ go run runtime_trace.go 2>trace.out
+ $ go tool trace trace.out
+
+```
+
+
 ## Go Lang Tutorial Site
  - [learn go tutorials](https://stackify.com/learn-go-tutorials/)
  
