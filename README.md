@@ -105,6 +105,7 @@ func main() {
 
 ### Go Parser (goyacc)
  - [PlanetScale's CTO on go parser](https://www.youtube.com/watch?v=NG0s3-s3whY)
+ - [GopherCon 2018 - How to Write a Parser in Go](https://about.sourcegraph.com/go/gophercon-2018-how-to-write-a-parser-in-go)
 
 ### Go Assembly 
  - [Quick guide to assembly](https://golang.org/doc/asm)
