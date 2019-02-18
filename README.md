@@ -107,6 +107,8 @@ func main() {
  - [PlanetScale's CTO on go parser](https://www.youtube.com/watch?v=NG0s3-s3whY)
  - [GopherCon 2018 - How to Write a Parser in Go](https://about.sourcegraph.com/go/gophercon-2018-how-to-write-a-parser-in-go)
  - [GopherAcademy : Parsing with ANTLR 4 and Go](https://blog.gopheracademy.com/advent-2017/parsing-with-antlr4-and-go/)
+ - [GopherAcademy : Handwritten Parsers & Lexers in Go](https://blog.gopheracademy.com/advent-2014/parsers-lexers/)
+
 
 ### Go Assembly 
  - [Quick guide to assembly](https://golang.org/doc/asm)
@@ -142,6 +144,13 @@ check runtime Garbage Stats implementation
 
 ### Go Unit Test by GoConvey
  - [Introduction to GoConvey](https://www.youtube.com/watch?v=wlUKRxWEELU)
+
+## Go Library
+
+### EVCache
+ - [Netflix EVCache Architecture](https://docs.google.com/presentation/d/1hiwj0oV0nLMtFmARpoFLDoGNh-YdCdy9epTagmwUIDE/edit#slide=id.g1505988a49_0_0)
+
+## Go Rest API Tutorial
  
 ### Go Restful API tutorial
  - [Codementor Go Restful API handling](https://www.codementor.io/codehakase/building-a-restful-api-with-golang-a6yivzqdo)
