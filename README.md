@@ -2,7 +2,7 @@
 
 
 ## Go Tutorial 
- -[An Introduction to Go(CERN)(https://speakerdeck.com/campoy/an-introduction-to-go-cern)
+ - [An Introduction to Go(CERN)](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
 
 ## Learning Go - Miek Gieben
  - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
