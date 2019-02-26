@@ -172,3 +172,5 @@ check runtime Garbage Stats implementation
 ### Go 2.0 
  - [Go 2.0 and Module](http://callistaenterprise.se/assets/presentationer/cadec-2019-go.pdf)
 
+## Awesome Go
+ - [Awesome go](https://awesome-go.com/)
