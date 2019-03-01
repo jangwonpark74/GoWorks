@@ -88,6 +88,9 @@ func main() {
 
 ### Go performance pattern 
   - [Go performance pattern](https://stackimpact.com/docs/go-performance-tuning/#go-performance-patterns)
+  
+### Go train company
+ - [ArdanLabs](https://www.ardanlabs.com/ultimate-go/)
 
 ## Go Example Program
 
