@@ -1,5 +1,7 @@
 # GoLangStudy
 
+## Go Introduction
+ - [go 언어 이렇게 배워 보세요!](http://www.bloter.net/archives/230851)
 
 ## Go Tutorial 
  - [An Introduction to Go(CERN)](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
