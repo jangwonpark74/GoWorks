@@ -79,6 +79,9 @@ func main() {
 ### Go Coding Convention
  - [Unknow/go-code-convention](https://github.com/Unknwon/go-code-convention/blob/master/en-US/README.md) : For production level coding 
 
+### State of Go 
+ - [What's new since Go 1.10](https://speakerdeck.com/campoy/the-state-of-go-feb-2019)
+
 
 ## Go Example Program
 
