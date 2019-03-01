@@ -12,7 +12,10 @@
 ### Check go builtin first
  - $ godoc builtin | more
  - $ godoc net/http | more
- 
+
+## Go 1.12 upgrade (ubuntu)
+ - [go 1.12 upgrade ](https://github.com/golang/go/wiki/Ubuntu)
+
 ### Go tool compile
 ```
  $ go tool compile unsafe.go  (object file 생성)
@@ -53,6 +56,7 @@ func main() {
  $ go tool trace trace.out
 
 ```
+
 
 
 ## Go Lang Tutorial Site
