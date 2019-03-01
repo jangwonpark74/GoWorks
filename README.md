@@ -96,6 +96,9 @@ func main() {
  - [gdb](https://golang.org/doc/gdb)
 
 
+### Go scheduler
+ - [Theory behind go-scheduler](https://povilasv.me/go-scheduler/)
+
 ### Go Memory Management
  - [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 
