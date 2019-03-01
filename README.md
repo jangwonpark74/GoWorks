@@ -114,6 +114,11 @@ func main() {
  - [gdb](https://golang.org/doc/gdb)
 
 
+## Go refactoring
+
+ - [How to fix tightly coupled go program](https://www.sage42.org/2019/01/30/how-to-fix-tightly-coupled-go-code/)
+
+
 ### Go scheduler
  - [Theory behind go-scheduler](https://povilasv.me/go-scheduler/)
  - [Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
@@ -131,6 +136,8 @@ func main() {
 
 ## Go Compiler
  - [Rob Pike's Lexical Scanning in Go](https://talks.golang.org/2011/lex.slide#1)
+ 
+ 
 
 ### Go Parser (goyacc)
  - [PlanetScale's CTO on go parser](https://www.youtube.com/watch?v=NG0s3-s3whY)
