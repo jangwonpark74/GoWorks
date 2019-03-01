@@ -93,7 +93,7 @@ func main() {
 
 ### Advanced Go Concurrency
  - [Advanced Go Concurrency](https://talks.golang.org/2013/advconc.slide#1)
- - [Go 로 1M request 처리하기](https://docs.google.com/presentation/d/1h_fPD_QIRa7dT1BnVT1_Ow1_mSvRt0fbySTe8AOk6io/edit#slide=id.p1)
+ - [Go 로 1M request 처리하기](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 
 ## Debugging Go Code with GDB
  - [gdb](https://golang.org/doc/gdb)
