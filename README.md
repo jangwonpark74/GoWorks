@@ -80,6 +80,9 @@ func main() {
 
 ## Go Example Program
 
+### Go TCP Communication
+ - [Go TCP communication](https://blog.kesuskim.com/2018/08/go-tcp-implementation/)
+
 ### Go chat bot
  - [Go:code that grows with grace](https://talks.golang.org/2012/chat.slide#1)
 
