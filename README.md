@@ -71,6 +71,9 @@ func main() {
  - [Peter Bourgon's Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
  - [Phil Estes's 4 tips for learning Golang](https://opensource.com/article/18/11/learning-golang)
 
+## Go style guide
+ - [practical-go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+
 ## Go Editor 
  -  Visual Studio Code + [vscode-go](https://github.com/Microsoft/vscode-go)
 
