@@ -47,7 +47,7 @@ func main() {
 	}()
 	
 	<-ch
-
+}
 ```
 
 -executing go tool trace 
