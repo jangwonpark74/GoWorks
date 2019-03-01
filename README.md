@@ -82,6 +82,8 @@ func main() {
 ### State of Go 
  - [What's new since Go 1.10](https://speakerdeck.com/campoy/the-state-of-go-feb-2019)
 
+### Go performance pattern 
+  - [Go performance pattern](https://stackimpact.com/docs/go-performance-tuning/#go-performance-patterns)
 
 ## Go Example Program
 
