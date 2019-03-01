@@ -95,6 +95,7 @@ func main() {
  - [Advanced Go Concurrency](https://talks.golang.org/2013/advconc.slide#1)
  - [Visualizing Go Concurrency](https://divan.dev/posts/go_concurrency_visualize/)
    [Visualizing Go Concurrency(YouTube)](https://www.youtube.com/watch?v=KyuFeiG3Y60)
+ - [3D gotrace tool](https://github.com/divan/gotrace)
  - [Go 로 1M request 처리하기](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 
 ## Debugging Go Code with GDB
