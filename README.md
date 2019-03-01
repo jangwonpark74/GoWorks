@@ -89,6 +89,9 @@ func main() {
 ### State of Go 
  - [What's new since Go 1.10](https://speakerdeck.com/campoy/the-state-of-go-feb-2019)
 
+### Robustness of Go
+ - [Robustness of Go](https://www.youtube.com/watch?v=40d26ZGfhR8)
+
 ### Go performance pattern 
   - [Go performance pattern](https://stackimpact.com/docs/go-performance-tuning/#go-performance-patterns)
   
