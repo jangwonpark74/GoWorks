@@ -98,6 +98,7 @@ func main() {
 
 ### Go scheduler
  - [Theory behind go-scheduler](https://povilasv.me/go-scheduler/)
+ - [Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
 
 ### Go Memory Management
  - [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
