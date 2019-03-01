@@ -154,7 +154,8 @@ check runtime Garbage Stats implementation
 
 ### Go Unit Test by GoConvey
  - [Introduction to GoConvey](https://www.youtube.com/watch?v=wlUKRxWEELU)
-
+ - [Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
+ 
 ## Go Library
 
 ### EVCache
