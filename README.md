@@ -168,6 +168,7 @@ func main() {
 ### Go Logging with uber zap
  - [golang log library zap](https://github.com/golangkorea/gophercon-talks/blob/master/slides/201901/golang-log-library-zap.pdf)
 
+
 ## Go runtime 
 ### Go Garbage Collection Algorithm
  - tricolor mark-and-sweep algorithm (GO GC algorithm)
@@ -198,7 +199,7 @@ check runtime Garbage Stats implementation
  - [Netflix EVCache Architecture](https://docs.google.com/presentation/d/1hiwj0oV0nLMtFmARpoFLDoGNh-YdCdy9epTagmwUIDE/edit#slide=id.g1505988a49_0_0)
 
 ## Go Rest API Tutorial
- 
+
 ### Go Restful API tutorial
  - [Codementor Go Restful API handling](https://www.codementor.io/codehakase/building-a-restful-api-with-golang-a6yivzqdo)
  - [Go Restful API server 개발기](https://www.slideshare.net/Hyejong/golang-restful)
@@ -209,6 +210,7 @@ check runtime Garbage Stats implementation
 
 ### Go gRPC
  - [gopher academy on gRPC](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
+ - [go GRPC](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
 
 ### Go Microservice
  - [Go Microservice Blog Series](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
