@@ -116,6 +116,9 @@ func main() {
 ### Go for Pythonistas
  - [Go vs Python](https://talks.golang.org/2013/go4python.slide#1)
 
+### Go code generation
+ - [Code generation using template](https://www.youtube.com/watch?v=3llI65DQB_w)
+
 ### Advanced Go Concurrency
  - [Advanced Go Concurrency](https://talks.golang.org/2013/advconc.slide#1)
  - [Visualizing Go Concurrency](https://divan.dev/posts/go_concurrency_visualize/)
