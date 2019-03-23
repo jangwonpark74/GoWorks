@@ -1,7 +1,6 @@
 package main
 
 func main() {
-	
 	var m map[string]int
 	m = make(map[string]int)
 
@@ -10,6 +9,4 @@ func main() {
 	print(elem)
 
 	delete(m, "key")
-
-	
 }

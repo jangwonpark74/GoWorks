@@ -1,6 +1,5 @@
 package main
 
-
 func callback(y int, f func(int)) {
 	f(y)
 }
