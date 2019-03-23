@@ -12,6 +12,9 @@
 ## I never use in go
  - [Never use guide in go](https://www.youtube.com/watch?v=5DVV36uqQ4E)
 
+## Go expert to follow in online
+ - [Go experts](https://blog.newrelic.com/technology/golang-experts-follow-online/)
+
 ### Check go builtin first
  - $ godoc builtin | more
  - $ godoc net/http | more
