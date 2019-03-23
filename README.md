@@ -228,6 +228,9 @@ check runtime Garbage Stats implementation
  - [gopher academy on gRPC](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
  - [go GRPC](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
 
+### GoCV (Computer Vision)
+ - [gocv install](https://gocv.io/getting-started/linux/)
+
 ### Go Microservice
  - [Go Microservice Blog Series](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
 
