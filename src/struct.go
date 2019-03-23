@@ -4,9 +4,8 @@ import "fmt"
 
 type Person struct {
 	name string
-	age int
+	age  int
 }
-
 
 //The (p Person) below is referred to as the receiver.
 func (p Person) Major() bool {
@@ -18,9 +17,8 @@ func (p *Person) Birthday() {
 	p.age++
 }
 
-
 func main() {
-	a := new (Person)
+	a := new(Person)
 	a.name = "Pete"
 	a.age = 42
 	fmt.Printf("%v\n", a)
