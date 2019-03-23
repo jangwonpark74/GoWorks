@@ -91,7 +91,10 @@ func main() {
  - [Go Web examples](https://gowebexamples.com/)
 
 ### Golang Programs
- - [Golan Programs](http:/www.golangprograms.com/)
+ - [Golang Programs](http:/www.golangprograms.com/)
+
+### Golang string tips
+ - [40+ practical string tips](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
 
 ### Go Coding Convention
  - [Unknow/go-code-convention](https://github.com/Unknwon/go-code-convention/blob/master/en-US/README.md) : For production level coding 
