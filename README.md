@@ -116,6 +116,9 @@ func main() {
 
 ## Go Example Program
 
+### Streaming IO in Go
+ - [Learning Streaming IO in go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185)
+
 ### Go TCP Communication
  - [Go TCP communication](https://blog.kesuskim.com/2018/08/go-tcp-implementation/)
 
