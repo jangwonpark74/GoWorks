@@ -146,6 +146,8 @@ func main() {
 
  - [How to fix tightly coupled go program](https://www.sage42.org/2019/01/30/how-to-fix-tightly-coupled-go-code/)
 
+## Go Performance
+ - [So You Wanna Go Fast? by Tyler Treat](https://www.youtube.com/watch?v=DJ4d_PZ6Gns&utm_source=golangweekly&utm_medium=email)
 
 ### Go scheduler
  - [Theory behind go-scheduler](https://povilasv.me/go-scheduler/)
