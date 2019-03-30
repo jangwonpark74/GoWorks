@@ -233,6 +233,9 @@ check runtime Garbage Stats implementation
  - [gopher academy on gRPC](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
  - [go GRPC](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
 
+### Go graphql
+ - [graphql-server in google app engine](https://outcrawl.com/graphql-server-go-google-app-engine?utm_source=golangweekly&utm_medium=email)
+
 ### GoCV (Computer Vision)
  - [gocv install](https://gocv.io/getting-started/linux/)
 
