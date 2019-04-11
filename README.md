@@ -156,10 +156,14 @@ func main() {
 ### Go Memory Management
  - [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 
+### Garbage collection & API gateway latency
+ - [API gateway performance](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
+
 ### Garbage collection 
 ```
  $GODEBUG=gctrace=1 go run gColl.go
 ```
+
 
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
