@@ -240,6 +240,9 @@ check runtime Garbage Stats implementation
 ### Go graphql
  - [graphql-server in google app engine](https://outcrawl.com/graphql-server-go-google-app-engine?utm_source=golangweekly&utm_medium=email)
 
+### Go TOML
+- [Go TOML](https://github.com/pelletier/go-toml)
+
 ### GoCV (Computer Vision)
  - [gocv install](https://gocv.io/getting-started/linux/)
 
