@@ -245,6 +245,9 @@ check runtime Garbage Stats implementation
 
 ### GoCV (Computer Vision)
  - [gocv install](https://gocv.io/getting-started/linux/)
+ 
+### Go XMPP Server
+ - [Go XMPP server:jackal](https://github.com/ortuman/jackal)
 
 ### Go Microservice
  - [Go Microservice Blog Series](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
