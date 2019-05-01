@@ -225,6 +225,10 @@ check runtime Garbage Stats implementation
 ### EVCache
  - [Netflix EVCache Architecture](https://docs.google.com/presentation/d/1hiwj0oV0nLMtFmARpoFLDoGNh-YdCdy9epTagmwUIDE/edit#slide=id.g1505988a49_0_0)
 
+### Jingo : A Faster JSON Encoder for Go
+ - [Jingo json encoder for go](https://bet365techblog.com/open-sourcing-jingo-a-faster-json-encoder-for-go)
+
+
 ## Go Rest API Tutorial
 
 ### Go Restful API tutorial
