@@ -164,6 +164,8 @@ func main() {
  $GODEBUG=gctrace=1 go run gColl.go
 ```
 
+### Go Memory Leak Detection
+ - [Investigating memory leaks in go](https://medium.freecodecamp.org/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192)
 
 ### Go test and coverage
  - [Go cover](https://blog.golang.org/cover)
