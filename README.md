@@ -174,6 +174,7 @@ func main() {
 
 ### Go Performance
  - [Go Performance in GCP](https://www.youtube.com/watch?v=b0o-xeEoug0)
+ - [Go Performance tuning](https://eng.uber.com/optimizing-m3/)
 
 ## Go Compiler
  - [Rob Pike's Lexical Scanning in Go](https://talks.golang.org/2011/lex.slide#1)
