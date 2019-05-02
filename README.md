@@ -171,6 +171,9 @@ func main() {
  - [Go Testing](https://dave.cheney.net/paste/gopherchina-2019-testing-talk.pdf)
  - [Go cover](https://blog.golang.org/cover)
 
+### Go Performance
+ - [Go Performance in GCP](https://www.youtube.com/watch?v=b0o-xeEoug0)
+
 ## Go Compiler
  - [Rob Pike's Lexical Scanning in Go](https://talks.golang.org/2011/lex.slide#1)
  - [Go LLVM](https://aykevl.nl/2019/04/llvm-from-go)
