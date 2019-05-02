@@ -168,6 +168,7 @@ func main() {
  - [Investigating memory leaks in go](https://medium.freecodecamp.org/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192)
 
 ### Go test and coverage
+ - [Go Testing](https://dave.cheney.net/paste/gopherchina-2019-testing-talk.pdf)
  - [Go cover](https://blog.golang.org/cover)
 
 ## Go Compiler
