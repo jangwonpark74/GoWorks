@@ -253,6 +253,9 @@ check runtime Garbage Stats implementation
 ### Protocol buffer
  - [Protocol buffer Jason Mapping](https://developers.google.com/protocol-buffers/docs/proto3#json)
 
+### Go Encrypting Streaming
+ - [Streaming Cyper for Large Data](https://medium.com/blend-engineering/encrypting-streams-in-go-6cff6062a107)
+
 ### Go graphql
  - [graphql-server in google app engine](https://outcrawl.com/graphql-server-go-google-app-engine?utm_source=golangweekly&utm_medium=email)
 
