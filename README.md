@@ -10,6 +10,10 @@
 ## Learning Go - Miek Gieben
  - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
 
+
+## Go for beginners 
+ - [How do beginners Learn go] (https://changelog.com/gotime/85)
+
 ## I never use in go
  - [Never use guide in go](https://www.youtube.com/watch?v=5DVV36uqQ4E)
 
