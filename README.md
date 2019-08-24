@@ -104,7 +104,6 @@ func main() {
 ### Golang string tips
  - [40+ practical string tips](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
 
-
 ### Go Utility
  - [Go-funk](https://github.com/thoas/go-funk)
 
@@ -133,6 +132,9 @@ func main() {
 
 ### Go TCP Communication
  - [Go TCP communication](https://blog.kesuskim.com/2018/08/go-tcp-implementation/)
+
+### TLS for Go
+ - [PKG for Gophers](https://about.sourcegraph.com/go/gophercon-2019-pki-for-gophers)
 
 ### Go chat bot
  - [Go:code that grows with grace](https://talks.golang.org/2012/chat.slide#1)
