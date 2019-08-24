@@ -145,12 +145,17 @@ func main() {
 ### Go code generation
  - [Code generation using template](https://www.youtube.com/watch?v=3llI65DQB_w)
 
+### Context 
+ - [Context and Cancellation of goroutines](http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
+
+
 ### Advanced Go Concurrency
  - [Advanced Go Concurrency](https://talks.golang.org/2013/advconc.slide#1)
  - [Visualizing Go Concurrency](https://divan.dev/posts/go_concurrency_visualize/)
  - [Visualizing Go Concurrency(YouTube)](https://www.youtube.com/watch?v=KyuFeiG3Y60)
  - [3D gotrace tool](https://github.com/divan/gotrace)
  - [Go 로 1M request 처리하기](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
+
 
 ## Debugging Go Code with GDB
  - [gdb](https://golang.org/doc/gdb)
