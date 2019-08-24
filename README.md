@@ -231,6 +231,7 @@ check runtime Garbage Stats implementation
 ## Go module
  - [Go module roadmap](https://blog.golang.org/modules2019) 
  - [Go module blog](https://blog.golang.org/using-go-modules)
+ - [Go 1.13 modules 소개](https://aidanbae.github.io/code/golang/modules/)
  
 ### Go module by example
  - [Go module example](https://github.com/go-modules-by-example/index)
