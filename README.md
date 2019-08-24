@@ -5,9 +5,14 @@
 
 ## Go Tutorial 
  - [An Introduction to Go(CERN)](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
-
+ - [Understanding Go Map](https://www.digitalocean.com/community/tutorials/understanding-maps-in-go)
+ 
 ## Learning Go - Miek Gieben
  - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
+
+
+## Go for beginners 
+ - [How do beginners Learn go] (https://changelog.com/gotime/85)
 
 ## I never use in go
  - [Never use guide in go](https://www.youtube.com/watch?v=5DVV36uqQ4E)
@@ -120,6 +125,12 @@ func main() {
 
 ## Go Example Program
 
+### Streaming IO in Go
+ - [Learning Streaming IO in go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185)
+
+### Production Grade UDP streaming
+ - [kcp go library for UDP](https://github.com/xtaci/kcp-go)
+
 ### Go TCP Communication
  - [Go TCP communication](https://blog.kesuskim.com/2018/08/go-tcp-implementation/)
 
@@ -147,6 +158,8 @@ func main() {
 
  - [How to fix tightly coupled go program](https://www.sage42.org/2019/01/30/how-to-fix-tightly-coupled-go-code/)
 
+## Go Performance
+ - [So You Wanna Go Fast? by Tyler Treat](https://www.youtube.com/watch?v=DJ4d_PZ6Gns&utm_source=golangweekly&utm_medium=email)
 
 ### Go scheduler
  - [Theory behind go-scheduler](https://povilasv.me/go-scheduler/)
@@ -155,17 +168,28 @@ func main() {
 ### Go Memory Management
  - [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 
+### Garbage collection & API gateway latency
+ - [API gateway performance](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
+
 ### Garbage collection 
 ```
  $GODEBUG=gctrace=1 go run gColl.go
 ```
 
+### Go Memory Leak Detection
+ - [Investigating memory leaks in go](https://medium.freecodecamp.org/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192)
+
 ### Go test and coverage
+ - [Go Testing](https://dave.cheney.net/paste/gopherchina-2019-testing-talk.pdf)
  - [Go cover](https://blog.golang.org/cover)
+
+### Go Performance
+ - [Go Performance in GCP](https://www.youtube.com/watch?v=b0o-xeEoug0)
+ - [Go Performance tuning](https://eng.uber.com/optimizing-m3/)
 
 ## Go Compiler
  - [Rob Pike's Lexical Scanning in Go](https://talks.golang.org/2011/lex.slide#1)
- 
+ - [Go LLVM](https://aykevl.nl/2019/04/llvm-from-go)
  
 
 ### Go Parser (goyacc)
@@ -218,6 +242,10 @@ check runtime Garbage Stats implementation
 ### EVCache
  - [Netflix EVCache Architecture](https://docs.google.com/presentation/d/1hiwj0oV0nLMtFmARpoFLDoGNh-YdCdy9epTagmwUIDE/edit#slide=id.g1505988a49_0_0)
 
+### Jingo : A Faster JSON Encoder for Go
+ - [Jingo json encoder for go](https://bet365techblog.com/open-sourcing-jingo-a-faster-json-encoder-for-go)
+
+
 ## Go Rest API Tutorial
 
 ### Go Restful API tutorial
@@ -231,13 +259,30 @@ check runtime Garbage Stats implementation
 ### Go gRPC
  - [gopher academy on gRPC](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
  - [go GRPC](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
+ - [golang gRPC](https://github.com/grpc/grpc-go)
+
+### Protocol buffer
+ - [Protocol buffer Jason Mapping](https://developers.google.com/protocol-buffers/docs/proto3#json)
+
+### Go Encrypting Streaming
+ - [Streaming Cyper for Large Data](https://medium.com/blend-engineering/encrypting-streams-in-go-6cff6062a107)
+
+### Go graphql
+ - [graphql-server in google app engine](https://outcrawl.com/graphql-server-go-google-app-engine?utm_source=golangweekly&utm_medium=email)
+
+### Go TOML
+- [Go TOML](https://github.com/pelletier/go-toml)
 
 ### GoCV (Computer Vision)
  - [gocv install](https://gocv.io/getting-started/linux/)
+ 
+### Go XMPP Server
+ - [Go XMPP server:jackal](https://github.com/ortuman/jackal)
 
 ### Go Microservice
  - [Go Microservice Blog Series](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
-
+ - [Go Microservice Toolkit from New York Times](https://github.com/nytimes/gizmo) 
+  
 ### Open source go 배송조회 시스템
  - [Go 배송 조회](https://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html)
 
