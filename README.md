@@ -133,7 +133,7 @@ func main() {
 ### Go TCP Communication
  - [Go TCP communication](https://blog.kesuskim.com/2018/08/go-tcp-implementation/)
 
-### TLS for Go
+### TLS1.3 for Go
  - [PKG for Gophers](https://about.sourcegraph.com/go/gophercon-2019-pki-for-gophers)
 
 ### Go chat bot
@@ -232,6 +232,7 @@ check runtime Garbage Stats implementation
  - [Go module roadmap](https://blog.golang.org/modules2019) 
  - [Go module blog](https://blog.golang.org/using-go-modules)
  - [Go 1.13 modules 소개](https://aidanbae.github.io/code/golang/modules/)
+ - [Defining Go Moudles](https://research.swtch.com/vgo-module.pdf)
  
 ### Go module by example
  - [Go module example](https://github.com/go-modules-by-example/index)
