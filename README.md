@@ -99,6 +99,10 @@ func main() {
 ### Golang string tips
  - [40+ practical string tips](https://yourbasic.org/golang/string-functions-reference-cheat-sheet/)
 
+
+### Go Utility
+ - [Go-funk](https://github.com/thoas/go-funk)
+
 ### Go Coding Convention
  - [Unknow/go-code-convention](https://github.com/Unknwon/go-code-convention/blob/master/en-US/README.md) : For production level coding 
 
