@@ -79,11 +79,13 @@ func main() {
 ```
 ### Go profiling
 
+#### CPU profiling
+
 ```
 
 func main() {
 
-    defer profile.Start(profile.CPUProfile, profile.ProfilePath(".")).stop()  // Add this line to programe 
+    defer profile.Start(profile.CPUProfile, profile.ProfilePath(".")).Stop()  // Add this line to programe 
    
     f, err := os.Open(os.Args[1])
     if err != nil {
@@ -100,6 +102,32 @@ $ go tool pprof cpu.pprof
 
 $ go tool pprof -http=:8080 cpu.pprof
 
+ 
+
+```
+
+#### Memory profiling
+
+```
+
+func main() {
+
+    defer profile.Start(profile.MemProfile, profile.MemProfileRate(1),profile.ProfilePath(".")).Stop()  // Add this line to programe 
+   
+    f, err := os.Open(os.Args[1])
+    if err != nil {
+     ...
+    }
+
+}
+
+:Goimports 
+
+<< after execution >>
+
+$ go tool pprof mem.pprof
+
+$ go tool pprof -http=:8080 mem.pprof
  
 
 ```
