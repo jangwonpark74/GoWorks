@@ -81,6 +81,8 @@ func main() {
 
 #### CPU profiling
 
+[CopherCon2019 : Dave Cheney - Two Go programs, Three Different Profiling Techniques](https://www.youtube.com/watch?v=nok0aYiGiYA&list=PL2ntRZ1ySWBdDyspRTNBIKES1Y-P__59_&index=9)
+
 ```
 
 func main() {
