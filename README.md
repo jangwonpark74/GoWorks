@@ -39,6 +39,13 @@
  $ go tool compile -W hello.go (node tree 생성)
  
 ```
+### Go dissembly
+```
+ $ go build -o add.a  
+ $ go tool objdump add.a
+
+```
+
 
 ### Got tool trace
 - example runtime_trace.go file for trace
