@@ -77,6 +77,34 @@ func main() {
  $ go tool trace trace.out
 
 ```
+### Go profiling
+
+```
+
+func main() {
+
+    defer profile.Start(profile.CPUProfile, profile.ProfilePath(".")).stop()  // Add this line to programe 
+   
+    f, err := os.Open(os.Args[1])
+    if err != nil {
+     ...
+    }
+
+}
+
+:Goimports 
+
+<< after execution >>
+
+$ go tool pprof cpu.pprof
+
+$ go tool pprof -http=:8080 cpu.pprof
+
+ 
+
+```
+
+
 
 ### Dockerizing Go service
  - [Dockerizing Go service](https://xitonix.io/containerised-go-services/)
