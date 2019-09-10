@@ -136,7 +136,7 @@ $ go tool pprof -http=:8080 mem.pprof
 
 ## Go Test Coverage
 
- - [Instrumentation in Go ](https://medium.com/a-journey-with-go/go-instrumentation-in-go-e845cdae0c51_)
+ - [Instrumentation in Go ](https://medium.com/a-journey-with-go/go-instrumentation-in-go-e845cdae0c51)
 
 
 ### Dockerizing Go service
