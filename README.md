@@ -43,11 +43,13 @@
 ```
  $ go build -o add.a  
  $ go tool objdump add.a
-
 ```
 
 ### Go binary
  - [dissecting go binaries](https://www.grant.pizza/dissecting-go-binaries/)
+
+#### Intel Assembly Tutorial
+ - [x86 assembly](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming#13-compared-to-other-architectures)
 
 ### Got tool trace
 - example runtime_trace.go file for trace
