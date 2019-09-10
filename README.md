@@ -165,6 +165,10 @@ $ go tool pprof -http=:8080 mem.pprof
 ## Go Editor 
  -  Visual Studio Code + [vscode-go](https://github.com/Microsoft/vscode-go)
 
+## Go CLI 
+ - [build an awesome cli app in go](https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/)
+
+
 ## Build Web Application with Golang
  - [Git book for Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
 ### go web examples
