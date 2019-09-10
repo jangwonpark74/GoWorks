@@ -46,6 +46,8 @@
 
 ```
 
+### Go binary
+ - [dissecting go binaries](https://www.grant.pizza/dissecting-go-binaries/)
 
 ### Got tool trace
 - example runtime_trace.go file for trace
