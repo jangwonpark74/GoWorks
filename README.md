@@ -160,7 +160,8 @@ Most of the leak in go program
 – Global variables.
 
 ```
-
+## Go adaptor
+ - [ Go Mock Test](https://itnext.io/yet-another-tool-to-mock-interfaces-in-go-73de1b02c041)
 
 ## Go Test Coverage
 
