@@ -22,7 +22,8 @@
 
 ## Go gotchas
  - [50 common gotchas in go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
-
+ - [bad go with slice](https://philpearl.github.io/post/bad_go_not_sizing_arrays/)
+ 
 ## Go expert to follow in online
  - [Go experts](https://blog.newrelic.com/technology/golang-experts-follow-online/)
 
