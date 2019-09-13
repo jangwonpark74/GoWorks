@@ -141,6 +141,7 @@ $ go tool pprof -http=:8080 mem.pprof
 ### Memory Leak Profiling 
 
 - [Memory leak in Microservice](https://blog.detectify.com/2019/09/05/how-we-tracked-down-a-memory-leak-in-one-of-our-go-microservices/)
+- [Go 101 memory leak scenario](https://go101.org/article/memory-leaking.html)
 
 Most of the leak in go program 
 ```
