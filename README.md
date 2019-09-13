@@ -138,6 +138,21 @@ $ go tool pprof -http=:8080 mem.pprof
 
 ```
 
+### Memory Leak Profiling 
+
+- [Memory leak in Microservice](https://blog.detectify.com/2019/09/05/how-we-tracked-down-a-memory-leak-in-one-of-our-go-microservices/)
+
+Most of the leak in go program 
+```
+– Creating substrings and subslices.
+– Wrong use of the defer statement.
+– Unclosed HTTP response bodies (or unclosed resources in general).
+– Orphaned hanging go routines.
+– Global variables.
+
+```
+
+
 ## Go Test Coverage
 
  - [Instrumentation in Go ](https://medium.com/a-journey-with-go/go-instrumentation-in-go-e845cdae0c51)
