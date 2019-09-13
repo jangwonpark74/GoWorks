@@ -232,6 +232,9 @@ Most of the leak in go program
 ### TLS1.3 for Go
  - [PKG for Gophers](https://about.sourcegraph.com/go/gophercon-2019-pki-for-gophers)
 
+### Quic for Go
+ - [QUIC-Go](https://github.com/lucas-clemente/quic-go)
+
 ### Go chat bot
  - [Go:code that grows with grace](https://talks.golang.org/2012/chat.slide#1)
 
