@@ -168,7 +168,7 @@ Most of the leak in go program
  - [Instrumentation in Go ](https://medium.com/a-journey-with-go/go-instrumentation-in-go-e845cdae0c51)
 
 ## Go Parallel Programming
- -[Parallel processing in go with WaitGroup](https://medium.com/@arindamroy/easy-guide-to-parallel-processing-in-golang-60f455fb7af3)
+ - [Parallel processing in go with WaitGroup](https://medium.com/@arindamroy/easy-guide-to-parallel-processing-in-golang-60f455fb7af3)
 
 ### Dockerizing Go service
  - [Dockerizing Go service](https://xitonix.io/containerised-go-services/)
