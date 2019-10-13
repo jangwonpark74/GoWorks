@@ -12,7 +12,7 @@
 
 
 ## Go for beginners 
- - [How do beginners Learn go] (https://changelog.com/gotime/85)
+ - [How do beginners Learn go](https://changelog.com/gotime/85)
 
 ## Uber Go Style Guide
  - [Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
