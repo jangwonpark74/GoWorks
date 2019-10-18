@@ -193,6 +193,8 @@ $ go tool pprof -http=:8080 mem.pprof
  
 
 ```
+### Stack and Heap
+- [Stack & Heap](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap?__hstc=188987252.514726b61b6e7826ef16e8df93b3bd29.1571438741258.1571438741258.1571438741258.1&__hssc=188987252.1.1571438741259&__hsfp=543203955)
 
 ### Memory Leak Profiling 
 
