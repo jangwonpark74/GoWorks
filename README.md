@@ -275,6 +275,10 @@ Most of the leak in go program
 ### Algorithm in Go
  - [Implementing Dijkstra's Algorithm](https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html)
 
+
+### Progress bar in Go
+ - [Progress bar](https://github.com/schollz/progressbar/blob/master/progressbar.go)
+
 ### Streaming IO in Go
  - [Learning Streaming IO in go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185)
 
