@@ -21,6 +21,7 @@
 ## Go programming with errors
  - [pogramming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
  - [Go errors in 1.13](https://blog.golang.org/go1.13-errors)
+ 
 ## I never use in go
  - [Never use guide in go](https://www.youtube.com/watch?v=5DVV36uqQ4E)
 
@@ -28,6 +29,9 @@
  - [50 common gotchas in go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
  - [bad go with slice](https://philpearl.github.io/post/bad_go_not_sizing_arrays/)
  - [bad go slice of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
+ 
+## Go Design Pattern
+ - [Decorator Pattern in go](https://fabianlindfors.se/blog/decorators-in-go-using-embedded-structs/)
 
 ## Go real world concurrency bug
  - [Go concurrency bug study](https://medium.com/a-journey-with-go/go-concurrency-bugs-in-go-7d3677a1f2a2)
