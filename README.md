@@ -54,7 +54,7 @@
 
 ```
 ### Go race detector 
- -[Go rate detection tool](https://blog.golang.org/race-detector)
+ - [Introducing the Go racee detection tool](https://blog.golang.org/race-detector)
 
 ### Go Interpretor  
 - [Go AST](http://notes.eatonphil.com/interpreting-go.html)
