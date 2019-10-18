@@ -19,7 +19,7 @@
 
 ## Go programming with errors
  - [pogramming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
-
+ - [Go errors in 1.13](https://blog.golang.org/go1.13-errors)
 ## I never use in go
  - [Never use guide in go](https://www.youtube.com/watch?v=5DVV36uqQ4E)
 
