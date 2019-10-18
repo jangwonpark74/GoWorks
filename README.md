@@ -53,6 +53,8 @@
  $ go tool compile -W hello.go (node tree 생성)
 
 ```
+### Go race detector 
+ -[Go rate detection tool](https://blog.golang.org/race-detector)
 
 ### Go Interpretor  
 - [Go AST](http://notes.eatonphil.com/interpreting-go.html)
