@@ -245,6 +245,9 @@ Most of the leak in go program
 
 ## Go Example Program
 
+### Algorithm in Go
+ - [Implementing Dijkstra's Algorithm](https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html)
+
 ### Streaming IO in Go
  - [Learning Streaming IO in go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185)
 
