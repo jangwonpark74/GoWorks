@@ -37,7 +37,8 @@
  - [Einstein Analytics Migration from python to Go](https://stackoverflow.blog/2019/10/07/how-salesforce-converted-einstein-analytics-to-go/)
 
 ```
-Our team created a proof of concept (POC) that achieved near parity in performance with the C engine, but only if we used the right programming patterns:
+Our team created a proof of concept (POC) that achieved near parity in performance with the C engine, 
+but only if we used the right programming patterns:
 
 - Buffer all IO to reduce the overhead on Go system calls. 
   On a system call, current Goroutines yield to that call. 
