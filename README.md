@@ -41,6 +41,9 @@
 ## Go 1.12 upgrade (ubuntu)
  - [go 1.12 upgrade ](https://github.com/golang/go/wiki/Ubuntu)
 
+## Go 1.13.2 Release Note
+ - [go 1.13.2 Release and bug fix](https://groups.google.com/forum/#!topic/golang-nuts/uQlAyLkZ5kg)
+
 ### Go tool compile
 ```
  $ go tool compile unsafe.go  (object file 생성)
