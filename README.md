@@ -72,6 +72,9 @@ but only if we used the right programming patterns:
 ## Go 1.13.2 Release Note
  - [go 1.13.2 Release and bug fix](https://groups.google.com/forum/#!topic/golang-nuts/uQlAyLkZ5kg)
 
+## Go 1.14
+ - [What's comming go 1.14](https://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE/edit#slide=id.g550f852d27_228_0)
+
 ### Go tool compile
 ```
  $ go tool compile unsafe.go  (object file 생성)
@@ -290,7 +293,8 @@ Most of the leak in go program
 
 ### TLS1.3 for Go
  - [PKG for Gophers](https://about.sourcegraph.com/go/gophercon-2019-pki-for-gophers)
-
+ - [Go 1.14 go opt-in](https://github.com/golang/go/issues/30055)
+ 
 ### Quic for Go
  - [QUIC-Go](https://github.com/lucas-clemente/quic-go)
 
