@@ -31,7 +31,10 @@
  - [bad go slice of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
  
 ## Go Design Pattern
- - [Decorator Pattern in go](https://fabianlindfors.se/blog/decorators-in-go-using-embedded-structs/)
+ - [Decorators in go using embedded structs](https://fabianlindfors.se/blog/decorators-in-go-using-embedded-structs/)
+
+## Go Application Structure
+- [Go Flat App Structure](https://www.calhoun.io/flat-application-structure/)
 
 ## Go real world concurrency bug
  - [Go concurrency bug study](https://medium.com/a-journey-with-go/go-concurrency-bugs-in-go-7d3677a1f2a2)
