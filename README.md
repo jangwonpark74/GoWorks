@@ -62,6 +62,7 @@ but only if we used the right programming patterns:
 
 ## Go Application Structure
 - [Go Flat App Structure](https://www.calhoun.io/flat-application-structure/)
+- [Go Application Structure](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 
 ## Go real world concurrency bug
  - [Go concurrency bug study](https://medium.com/a-journey-with-go/go-concurrency-bugs-in-go-7d3677a1f2a2)
