@@ -77,7 +77,7 @@ but only if we used the right programming patterns:
 
 ## Go 1.13.2 Release Note
  - [go 1.13.2 Release and bug fix](https://groups.google.com/forum/#!topic/golang-nuts/uQlAyLkZ5kg)
-
+ - [Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
 ## Go 1.14
  - [What's comming go 1.14](https://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE/edit#slide=id.g550f852d27_228_0)
 
