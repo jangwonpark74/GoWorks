@@ -7,6 +7,7 @@
  - [An Introduction to Go(CERN)](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
  - [Understanding Go Map](https://www.digitalocean.com/community/tutorials/understanding-maps-in-go)
  - [Understanding Go Pointers](https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go?utm_source=golangweekly&utm_medium=social&utm_campaign=do-pointers)
+ - [go walkthrough io package](https://mingrammer.com/translation-go-walkthrough-io-package/)
 
 ## Go Testable Example
  - [Testable Example](https://blog.golang.org/examples)
