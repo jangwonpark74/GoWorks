@@ -451,6 +451,9 @@ check runtime Garbage Stats implementation
 ### Go Encrypting Streaming
  - [Streaming Cyper for Large Data](https://medium.com/blend-engineering/encrypting-streams-in-go-6cff6062a107)
 
+### Go 로 구현하는 블록 체인
+ - [Block chain in Go](https://mingrammer.com/building-blockchain-in-go-part-1/)
+
 ### Go graphql
  - [graphql-server in google app engine](https://outcrawl.com/graphql-server-go-google-app-engine?utm_source=golangweekly&utm_medium=email)
 
