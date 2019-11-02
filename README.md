@@ -399,9 +399,12 @@ Most of the leak in go program
  - [go Compiler Explorer](https://go.godbolt.org/)
  - assembly method :  $go tool compile -S <go_src.go>
 
+## Go Logging 
 ### Go Logging with uber zap
  - [golang log library zap](https://github.com/golangkorea/gophercon-talks/blob/master/slides/201901/golang-log-library-zap.pdf)
 
+### Go Zerolog
+ - [Go zerolog](https://github.com/rs/zerolog)
 
 ## Go runtime 
 ### Go Garbage Collection Algorithm
