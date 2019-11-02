@@ -285,6 +285,9 @@ Most of the leak in go program
 
 ## Go Example Program
 
+### Game of Life
+ - [Game of Life in go](https://github.com/healeycodes/conways-game-of-life)
+
 ### Algorithm in Go
  - [Implementing Dijkstra's Algorithm](https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html)
 
