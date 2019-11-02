@@ -80,6 +80,7 @@ but only if we used the right programming patterns:
 ## Go 1.13.2 Release Note
  - [go 1.13.2 Release and bug fix](https://groups.google.com/forum/#!topic/golang-nuts/uQlAyLkZ5kg)
  - [Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
+ 
 ## Go 1.14
  - [What's comming go 1.14](https://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE/edit#slide=id.g550f852d27_228_0)
 
@@ -230,7 +231,7 @@ Most of the leak in go program
 
 ### Dockerizing Go service
  - [Dockerizing Go service](https://xitonix.io/containerised-go-services/)
-
+ 
 
 ## Go Lang Tutorial Site
  - [learn go tutorials](https://stackify.com/learn-go-tutorials/)
@@ -256,6 +257,10 @@ Most of the leak in go program
 
 ## Build Web Application with Golang
  - [Git book for Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
+
+## Deploy Go Application to AWS ECS
+ - [Deploying Go Apps to Cloud](https://circleci.com/blog/use-circleci-orbs-to-build-test-and-deploy-a-simple-go-application-to-aws-ecs/)
+
 ### go web examples
  - [Go Web examples](https://gowebexamples.com/)
 
