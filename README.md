@@ -15,6 +15,8 @@
 ## Learning Go - Miek Gieben
  - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
 
+## Practice Go
+ - [Example Programs for Go practice](https://github.com/plutov/practice-go)
 
 ## Go for beginners 
  - [How do beginners Learn go](https://changelog.com/gotime/85)
