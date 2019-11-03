@@ -7,7 +7,11 @@
  - [An Introduction to Go(CERN)](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
  - [Understanding Go Map](https://www.digitalocean.com/community/tutorials/understanding-maps-in-go)
  - [Understanding Go Pointers](https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go?utm_source=golangweekly&utm_medium=social&utm_campaign=do-pointers)
- 
+ - [go walkthrough io package](https://mingrammer.com/translation-go-walkthrough-io-package/)
+
+## Go Testable Example
+ - [Testable Example](https://blog.golang.org/examples)
+
 ## Learning Go - Miek Gieben
  - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
 
@@ -58,6 +62,7 @@ but only if we used the right programming patterns:
 
 ## Go Application Structure
 - [Go Flat App Structure](https://www.calhoun.io/flat-application-structure/)
+- [Go Application Structure](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 
 ## Go real world concurrency bug
  - [Go concurrency bug study](https://medium.com/a-journey-with-go/go-concurrency-bugs-in-go-7d3677a1f2a2)
@@ -74,7 +79,8 @@ but only if we used the right programming patterns:
 
 ## Go 1.13.2 Release Note
  - [go 1.13.2 Release and bug fix](https://groups.google.com/forum/#!topic/golang-nuts/uQlAyLkZ5kg)
-
+ - [Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
+ 
 ## Go 1.14
  - [What's comming go 1.14](https://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE/edit#slide=id.g550f852d27_228_0)
 
@@ -225,7 +231,7 @@ Most of the leak in go program
 
 ### Dockerizing Go service
  - [Dockerizing Go service](https://xitonix.io/containerised-go-services/)
-
+ 
 
 ## Go Lang Tutorial Site
  - [learn go tutorials](https://stackify.com/learn-go-tutorials/)
@@ -251,6 +257,10 @@ Most of the leak in go program
 
 ## Build Web Application with Golang
  - [Git book for Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
+
+## Deploy Go Application to AWS ECS
+ - [Deploying Go Apps to Cloud](https://circleci.com/blog/use-circleci-orbs-to-build-test-and-deploy-a-simple-go-application-to-aws-ecs/)
+
 ### go web examples
  - [Go Web examples](https://gowebexamples.com/)
 
@@ -280,9 +290,11 @@ Most of the leak in go program
 
 ## Go Example Program
 
+### Game of Life
+ - [Game of Life in go](https://github.com/healeycodes/conways-game-of-life)
+
 ### Algorithm in Go
  - [Implementing Dijkstra's Algorithm](https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html)
-
 
 ### Progress bar in Go
  - [Progress bar](https://github.com/schollz/progressbar/blob/master/progressbar.go)
@@ -296,6 +308,9 @@ Most of the leak in go program
 ### Go TCP Communication
  - [Go TCP communication](https://blog.kesuskim.com/2018/08/go-tcp-implementation/)
 
+### Go Memcached Design
+ - [Go Memcache](https://healeycodes.com/go/tutorial/beginners/showdev/2019/10/21/cloning-memcached-with-go.html)
+ - [Go Memcache Clone](https://github.com/healeycodes/in-memory-cache-over-http)
 ### TLS1.3 for Go
  - [PKG for Gophers](https://about.sourcegraph.com/go/gophercon-2019-pki-for-gophers)
  - [Go 1.14 go opt-in](https://github.com/golang/go/issues/30055)
@@ -384,9 +399,12 @@ Most of the leak in go program
  - [go Compiler Explorer](https://go.godbolt.org/)
  - assembly method :  $go tool compile -S <go_src.go>
 
+## Go Logging 
 ### Go Logging with uber zap
  - [golang log library zap](https://github.com/golangkorea/gophercon-talks/blob/master/slides/201901/golang-log-library-zap.pdf)
 
+### Go Zerolog
+ - [Go zerolog](https://github.com/rs/zerolog)
 
 ## Go runtime 
 ### Go Garbage Collection Algorithm
@@ -445,6 +463,9 @@ check runtime Garbage Stats implementation
 
 ### Go Encrypting Streaming
  - [Streaming Cyper for Large Data](https://medium.com/blend-engineering/encrypting-streams-in-go-6cff6062a107)
+
+### Go 로 구현하는 블록 체인
+ - [Block chain in Go](https://mingrammer.com/building-blockchain-in-go-part-1/)
 
 ### Go graphql
  - [graphql-server in google app engine](https://outcrawl.com/graphql-server-go-google-app-engine?utm_source=golangweekly&utm_medium=email)
