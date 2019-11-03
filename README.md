@@ -15,9 +15,14 @@
 ## Learning Go - Miek Gieben
  - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
 
-
+## Practice Go
+ - [Example Programs for Go practice](https://github.com/plutov/practice-go)
+ 
 ## Go for beginners 
  - [How do beginners Learn go](https://changelog.com/gotime/85)
+
+## Gopercises
+ - [Gopercises](https://gophercises.com/?flash=%F0%9F%92%A5%20Check%20your%20email%20for%20a%20message%20from%20jon%40calhoun.io.%20It%20will%20have%20instructions%20on%20how%20to%20access%20the%20course.%20%F0%9F%92%A5%0A)
 
 ## Uber Go Style Guide
  - [Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
