@@ -12,4 +12,13 @@ func main() {
 
 	a := [...]int{1, 1, 2, 3, 5, 8, 13}
 	fmt.Println("%v", a)
+
+	myarr :=[3]string{"CFG", "Test", "GeeksForGeeks"}
+	for _, str :=range myarr {
+		fmt.Println(str)
+	}
+
+	my_arr1 := &myarr
+
+	fmt.Println("My Array :", *my_arr1)
 }
