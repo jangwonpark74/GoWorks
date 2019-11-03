@@ -17,7 +17,10 @@
 
 ## Practice Go
  - [Example Programs for Go practice](https://github.com/plutov/practice-go)
- 
+
+## Go in 5 Minutes
+ - [Go in 5 Minutes for various programming skills](https://www.goin5minutes.com/)
+
 ## Go for beginners 
  - [How do beginners Learn go](https://changelog.com/gotime/85)
 
