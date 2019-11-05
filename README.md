@@ -41,6 +41,7 @@
  - [50 common gotchas in go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
  - [bad go with slice](https://philpearl.github.io/post/bad_go_not_sizing_arrays/)
  - [bad go slice of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
+ - [Golang tips: why the pointer to slice is useful & tricky bugs](https://medium.com/swlh/golang-tips-why-pointers-to-slices-are-useful-and-how-ignoring-them-can-lead-to-tricky-bugs-cac90f72e77b)
 
 ## Go TDD
  - [TDD with Go](https://golangkorea.github.io/post/tdd-with-golang/)
