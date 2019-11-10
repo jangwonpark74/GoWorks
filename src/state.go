@@ -17,7 +17,9 @@ const (
 const MAX_STATE = Sleep
 
 func update(state *int, n int) {
-	*state = (*state << n) % MAX_STATE
+	fmt.Printf("update prev =%d shift =%d ", *state, n)
+	*state = (*state << n) % (Sleep | Receive | Send | Wait | Running)
+	fmt.Printf("next = %d \n", *state)
 }
 
 func display(state int) {
@@ -46,7 +48,7 @@ func main() {
 
 	state := Running
 	for i := 0; i < 20; i++ {
-		x := rand.Intn(5)
+		x := rand.Intn(6)
 		display(x)
 		time.Sleep(1 * time.Second)
 		update(&state, x)
