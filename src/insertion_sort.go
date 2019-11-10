@@ -25,6 +25,4 @@ func main() {
 	sorted := insertion_sort(sample)
 	fmt.Println("After Sort")
 	fmt.Println(sorted)
-	
-
 }
