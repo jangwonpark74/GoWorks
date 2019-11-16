@@ -1,0 +1,17 @@
+package gigaseconds 
+
+import (
+	"time"
+	"fmt"
+)
+
+func AfterGigaSeconds(now Time) Time {
+
+	t1 :=now
+
+	fmt.Println("Now:", t1.Format(time.RFC3339))
+	t2 := t1.After(1000000000s)
+	fmt.Println("After:", t2.Format(time.RFC3339))
+  return t2
+	
+}
