@@ -69,7 +69,7 @@ but only if we used the right programming patterns:
 ```
 ## Containerize Go Image
  - [Containerize This! How to build Golang Dockerfiles](https://www.cloudreach.com/en/insights/blog/containerize-this-how-to-build-golang-dockerfiles/)
-
+ - [Docker file example](https://github.com/callicoder/go-docker)
 
 ## Go Application Structure
 - [Go Flat App Structure](https://www.calhoun.io/flat-application-structure/)
