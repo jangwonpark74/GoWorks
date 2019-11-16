@@ -67,6 +67,8 @@ but only if we used the right programming patterns:
   the overhead on each function call. 
 
 ```
+## Containerize Go Image
+ - [Containerize This! How to build Golang Dockerfiles](https://www.cloudreach.com/en/insights/blog/containerize-this-how-to-build-golang-dockerfiles/)
 
 
 ## Go Application Structure
