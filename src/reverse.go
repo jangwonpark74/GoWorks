@@ -38,9 +38,9 @@ func reverse(x int) int {
 		v += int64(r)
 	}
 
-	if sign == 1 && v > 2147483647 {
+	if sign == 1 && v > (1<<31-1) {
 		return 0
-	} else if sign == -1 && v > 2147483648 {
+	} else if sign == -1 && v > (1<<31) {
 		return 0
 	} else {
 		return sign * int(v)
