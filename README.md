@@ -4,6 +4,7 @@
  - [go 언어 이렇게 배워 보세요!](http://www.bloter.net/archives/230851)
 
 ## Go Tutorial 
+ - [How to code in go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
  - [An Introduction to Go(CERN)](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
  - [Understanding Go Map](https://www.digitalocean.com/community/tutorials/understanding-maps-in-go)
  - [Understanding Go Pointers](https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go?utm_source=golangweekly&utm_medium=social&utm_campaign=do-pointers)
