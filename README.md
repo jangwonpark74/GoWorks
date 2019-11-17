@@ -188,6 +188,8 @@ $ go tool pprof -http=:8080 cpu.pprof
  
 
 ```
+### Low Latency Garbage Collection
+- [Twitch's go GC profiling](https://blog.twitch.tv/en/2016/07/05/gos-march-to-low-latency-gc-a6fa96f06eb7/)
 
 #### Memory profiling
 
