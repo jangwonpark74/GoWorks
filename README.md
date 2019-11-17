@@ -45,7 +45,8 @@
 
 ## Go TDD
  - [TDD with Go](https://golangkorea.github.io/post/tdd-with-golang/)
- - [Testing in Go by Example](http://smartystreets.com/blog/2015/02/go-testing-part-1-vanillla)
+ - [Testing in Go by Example, Part1](http://smartystreets.com/blog/2015/02/go-testing-part-1-vanillla)
+ - [Testing in Go by Example, Part2](https://smartystreets.com/blog/2015/02/go-testing-part-2-running-tests)
 
 ## Go Design Pattern
  - [Decorators in go using embedded structs](https://fabianlindfors.se/blog/decorators-in-go-using-embedded-structs/)
