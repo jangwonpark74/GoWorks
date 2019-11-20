@@ -1,0 +1,117 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AfterGigaSeconds	/home/jasonpark/GoWorks/src/gigaseconds/gigaseconds.go	/^func AfterGigaSeconds() {$/;"	d	language:Go
+AfterGigaSeconds	/home/jasonpark/GoWorks/src/gigaseconds/gigaseconds.go	/^func AfterGigaSeconds() {$/;"	f	language:Go
+Example_MaxProfit	/home/jasonpark/GoWorks/src/max_profit/max_profit_test.go	/^func Example_MaxProfit() {$/;"	d	language:Go
+Example_MaxProfit	/home/jasonpark/GoWorks/src/max_profit/max_profit_test.go	/^func Example_MaxProfit() {$/;"	f	language:Go
+Example_removeDuplication	/home/jasonpark/GoWorks/src/remove_duplication/remove_duplication_test.go	/^func Example_removeDuplication() {$/;"	d	language:Go
+Example_removeDuplication	/home/jasonpark/GoWorks/src/remove_duplication/remove_duplication_test.go	/^func Example_removeDuplication() {$/;"	f	language:Go
+Hello	/home/jasonpark/GoWorks/src/hello_world/hello_world.go	/^func Hello() {$/;"	d	language:Go
+Hello	/home/jasonpark/GoWorks/src/hello_world/hello_world.go	/^func Hello() {$/;"	f	language:Go
+Len	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Len() int           { return len(a) }$/;"	d	language:Go
+Len	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Len() int           { return len(a) }$/;"	f	language:Go
+Less	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Less(i, j int) bool { return a[i].x < a[j].x || a[i].y < a[j].y }$/;"	d	language:Go
+Less	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Less(i, j int) bool { return a[i].x < a[j].x || a[i].y < a[j].y }$/;"	f	language:Go
+MAX_STATE	/home/jasonpark/GoWorks/src/state.go	/^const MAX_STATE = Sleep$/;"	c	language:Go
+MaxProfit	/home/jasonpark/GoWorks/src/max_profit/max_profit.go	/^func MaxProfit(prices []int) int {$/;"	d	language:Go
+MaxProfit	/home/jasonpark/GoWorks/src/max_profit/max_profit.go	/^func MaxProfit(prices []int) int {$/;"	f	language:Go
+Receive	/home/jasonpark/GoWorks/src/state.go	/^	Receive$/;"	c	language:Go
+RemoveDuplicates	/home/jasonpark/GoWorks/src/remove_duplication/remove_duplication.go	/^func RemoveDuplicates(nums []int) int {$/;"	d	language:Go
+RemoveDuplicates	/home/jasonpark/GoWorks/src/remove_duplication/remove_duplication.go	/^func RemoveDuplicates(nums []int) int {$/;"	f	language:Go
+Running	/home/jasonpark/GoWorks/src/state.go	/^	Running = 1 << iota$/;"	c	language:Go
+Send	/home/jasonpark/GoWorks/src/state.go	/^	Send$/;"	c	language:Go
+Sleep	/home/jasonpark/GoWorks/src/state.go	/^	Sleep$/;"	c	language:Go
+Swap	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }$/;"	d	language:Go
+Swap	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }$/;"	f	language:Go
+TestHello	/home/jasonpark/GoWorks/src/hello_world/hello_world_test.go	/^func TestHello(t *testing.T) {$/;"	d	language:Go
+TestHello	/home/jasonpark/GoWorks/src/hello_world/hello_world_test.go	/^func TestHello(t *testing.T) {$/;"	f	language:Go
+Test_GigaSeconds	/home/jasonpark/GoWorks/src/gigaseconds/gigaseconds_test.go	/^func Test_GigaSeconds(t *testing.T) {$/;"	d	language:Go
+Test_GigaSeconds	/home/jasonpark/GoWorks/src/gigaseconds/gigaseconds_test.go	/^func Test_GigaSeconds(t *testing.T) {$/;"	f	language:Go
+Wait	/home/jasonpark/GoWorks/src/state.go	/^	Wait$/;"	c	language:Go
+display	/home/jasonpark/GoWorks/src/state.go	/^func display(state int) {$/;"	d	language:Go
+display	/home/jasonpark/GoWorks/src/state.go	/^func display(state int) {$/;"	f	language:Go
+fib	/home/jasonpark/GoWorks/src/fib_dp.go	/^func fib(n int) *big.Int {$/;"	d	language:Go
+fib	/home/jasonpark/GoWorks/src/fib_dp.go	/^func fib(n int) *big.Int {$/;"	f	language:Go
+gigaseconds	/home/jasonpark/GoWorks/src/gigaseconds/gigaseconds.go	/^package gigaseconds$/;"	p	language:Go
+gigaseconds.AfterGigaSeconds	/home/jasonpark/GoWorks/src/gigaseconds/gigaseconds.go	/^func AfterGigaSeconds() {$/;"	f	language:Go
+gigaseconds_test	/home/jasonpark/GoWorks/src/gigaseconds/gigaseconds_test.go	/^package gigaseconds_test$/;"	p	language:Go
+gigaseconds_test.Test_GigaSeconds	/home/jasonpark/GoWorks/src/gigaseconds/gigaseconds_test.go	/^func Test_GigaSeconds(t *testing.T) {$/;"	f	language:Go
+hello_world	/home/jasonpark/GoWorks/src/hello_world/hello_world.go	/^package hello_world$/;"	p	language:Go
+hello_world.Hello	/home/jasonpark/GoWorks/src/hello_world/hello_world.go	/^func Hello() {$/;"	f	language:Go
+hello_world_test	/home/jasonpark/GoWorks/src/hello_world/hello_world_test.go	/^package hello_world_test$/;"	p	language:Go
+hello_world_test.TestHello	/home/jasonpark/GoWorks/src/hello_world/hello_world_test.go	/^func TestHello(t *testing.T) {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/channel_buffering.go	/^func main() {$/;"	d	language:Go
+main	/home/jasonpark/GoWorks/src/channel_buffering.go	/^func main() {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/channel_buffering.go	/^package main$/;"	p	language:Go
+main	/home/jasonpark/GoWorks/src/channels.go	/^func main() {$/;"	d	language:Go
+main	/home/jasonpark/GoWorks/src/channels.go	/^func main() {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/channels.go	/^package main$/;"	p	language:Go
+main	/home/jasonpark/GoWorks/src/fib_dp.go	/^func main() {$/;"	d	language:Go
+main	/home/jasonpark/GoWorks/src/fib_dp.go	/^func main() {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/fib_dp.go	/^package main$/;"	p	language:Go
+main	/home/jasonpark/GoWorks/src/goroutines.go	/^func main() {$/;"	d	language:Go
+main	/home/jasonpark/GoWorks/src/goroutines.go	/^func main() {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/goroutines.go	/^package main$/;"	p	language:Go
+main	/home/jasonpark/GoWorks/src/multiply.go	/^func main() {$/;"	d	language:Go
+main	/home/jasonpark/GoWorks/src/multiply.go	/^func main() {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/multiply.go	/^package main$/;"	p	language:Go
+main	/home/jasonpark/GoWorks/src/sort.go	/^func main() {$/;"	d	language:Go
+main	/home/jasonpark/GoWorks/src/sort.go	/^func main() {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/sort.go	/^package main$/;"	p	language:Go
+main	/home/jasonpark/GoWorks/src/state.go	/^func main() {$/;"	d	language:Go
+main	/home/jasonpark/GoWorks/src/state.go	/^func main() {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/state.go	/^package main$/;"	p	language:Go
+main	/home/jasonpark/GoWorks/src/switch_1.go	/^func main() {$/;"	d	language:Go
+main	/home/jasonpark/GoWorks/src/switch_1.go	/^func main() {$/;"	f	language:Go
+main	/home/jasonpark/GoWorks/src/switch_1.go	/^package main$/;"	p	language:Go
+main.Len	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Len() int           { return len(a) }$/;"	f	language:Go
+main.Less	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Less(i, j int) bool { return a[i].x < a[j].x || a[i].y < a[j].y }$/;"	f	language:Go
+main.MAX_STATE	/home/jasonpark/GoWorks/src/state.go	/^const MAX_STATE = Sleep$/;"	c	language:Go
+main.Receive	/home/jasonpark/GoWorks/src/state.go	/^	Receive$/;"	c	language:Go
+main.Running	/home/jasonpark/GoWorks/src/state.go	/^	Running = 1 << iota$/;"	c	language:Go
+main.Send	/home/jasonpark/GoWorks/src/state.go	/^	Send$/;"	c	language:Go
+main.Sleep	/home/jasonpark/GoWorks/src/state.go	/^	Sleep$/;"	c	language:Go
+main.Swap	/home/jasonpark/GoWorks/src/sort.go	/^func (a pairs) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }$/;"	f	language:Go
+main.Wait	/home/jasonpark/GoWorks/src/state.go	/^	Wait$/;"	c	language:Go
+main.display	/home/jasonpark/GoWorks/src/state.go	/^func display(state int) {$/;"	f	language:Go
+main.fib	/home/jasonpark/GoWorks/src/fib_dp.go	/^func fib(n int) *big.Int {$/;"	f	language:Go
+main.main	/home/jasonpark/GoWorks/src/channel_buffering.go	/^func main() {$/;"	f	language:Go
+main.main	/home/jasonpark/GoWorks/src/channels.go	/^func main() {$/;"	f	language:Go
+main.main	/home/jasonpark/GoWorks/src/fib_dp.go	/^func main() {$/;"	f	language:Go
+main.main	/home/jasonpark/GoWorks/src/goroutines.go	/^func main() {$/;"	f	language:Go
+main.main	/home/jasonpark/GoWorks/src/multiply.go	/^func main() {$/;"	f	language:Go
+main.main	/home/jasonpark/GoWorks/src/sort.go	/^func main() {$/;"	f	language:Go
+main.main	/home/jasonpark/GoWorks/src/state.go	/^func main() {$/;"	f	language:Go
+main.main	/home/jasonpark/GoWorks/src/switch_1.go	/^func main() {$/;"	f	language:Go
+main.multiply	/home/jasonpark/GoWorks/src/multiply.go	/^func multiply(a int, b int) (int, int, int) {$/;"	f	language:Go
+main.pair	/home/jasonpark/GoWorks/src/sort.go	/^type pair struct {$/;"	t	language:Go
+main.pairs	/home/jasonpark/GoWorks/src/sort.go	/^type pairs []pair                  \/**\/$/;"	t	language:Go
+main.say	/home/jasonpark/GoWorks/src/goroutines.go	/^func say(s string) {$/;"	f	language:Go
+main.update	/home/jasonpark/GoWorks/src/state.go	/^func update(state *int, n int) {$/;"	f	language:Go
+max_profit	/home/jasonpark/GoWorks/src/max_profit/max_profit.go	/^package max_profit$/;"	p	language:Go
+max_profit.MaxProfit	/home/jasonpark/GoWorks/src/max_profit/max_profit.go	/^func MaxProfit(prices []int) int {$/;"	f	language:Go
+max_profit_test	/home/jasonpark/GoWorks/src/max_profit/max_profit_test.go	/^package max_profit_test$/;"	p	language:Go
+max_profit_test.Example_MaxProfit	/home/jasonpark/GoWorks/src/max_profit/max_profit_test.go	/^func Example_MaxProfit() {$/;"	f	language:Go
+multiply	/home/jasonpark/GoWorks/src/multiply.go	/^func multiply(a int, b int) (int, int, int) {$/;"	d	language:Go
+multiply	/home/jasonpark/GoWorks/src/multiply.go	/^func multiply(a int, b int) (int, int, int) {$/;"	f	language:Go
+n2	/home/jasonpark/GoWorks/src/fib_dp.go	/^	var n2, n1 = big.NewInt(0), big.NewInt(1)$/;"	d	language:Go
+pair	/home/jasonpark/GoWorks/src/sort.go	/^type pair struct {$/;"	d	language:Go
+pair	/home/jasonpark/GoWorks/src/sort.go	/^type pair struct {$/;"	t	language:Go
+pairs	/home/jasonpark/GoWorks/src/sort.go	/^type pairs []pair                  \/**\/$/;"	d	language:Go
+pairs	/home/jasonpark/GoWorks/src/sort.go	/^type pairs []pair                  \/**\/$/;"	t	language:Go
+remove_duplication	/home/jasonpark/GoWorks/src/remove_duplication/remove_duplication.go	/^package remove_duplication$/;"	p	language:Go
+remove_duplication.RemoveDuplicates	/home/jasonpark/GoWorks/src/remove_duplication/remove_duplication.go	/^func RemoveDuplicates(nums []int) int {$/;"	f	language:Go
+remove_duplication_test	/home/jasonpark/GoWorks/src/remove_duplication/remove_duplication_test.go	/^package remove_duplication_test$/;"	p	language:Go
+remove_duplication_test.Example_removeDuplication	/home/jasonpark/GoWorks/src/remove_duplication/remove_duplication_test.go	/^func Example_removeDuplication() {$/;"	f	language:Go
+reverse	/home/jasonpark/GoWorks/src/reverse.go	/^func reverse(x int) int {$/;"	d	language:Go
+reverse	/home/jasonpark/GoWorks/src/reverse.go	/^func reverse(x int) int {$/;"	f	language:Go
+reverse	/home/jasonpark/GoWorks/src/reverse.go	/^package reverse$/;"	p	language:Go
+reverse.reverse	/home/jasonpark/GoWorks/src/reverse.go	/^func reverse(x int) int {$/;"	f	language:Go
+say	/home/jasonpark/GoWorks/src/goroutines.go	/^func say(s string) {$/;"	d	language:Go
+say	/home/jasonpark/GoWorks/src/goroutines.go	/^func say(s string) {$/;"	f	language:Go
+update	/home/jasonpark/GoWorks/src/state.go	/^func update(state *int, n int) {$/;"	d	language:Go
+update	/home/jasonpark/GoWorks/src/state.go	/^func update(state *int, n int) {$/;"	f	language:Go

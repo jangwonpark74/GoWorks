@@ -16,7 +16,6 @@ func fib(n int) *big.Int {
 	for i := 1; i < n; i++ {
 		n2.Add(n2, n1)
 		n1, n2 = n2, n1
-
 	}
 	return n1
 }
