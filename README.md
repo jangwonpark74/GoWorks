@@ -1,5 +1,10 @@
 # GoLangStudy
 
+## VIM 설정 
+'''
+Go를 설치하고 .vimrc에 Plugin 'fatih/vim-go' 와 Plugin 'zchee/deoplete-go' 를 추가하고 :PluginInstall 을 합시다. 이후에 :GoInstallBinaries 을 입력해서 Go관련 실행 파일들을 받습니다.
+''''
+
 ## Go Introduction
  - [go 언어 이렇게 배워 보세요!](http://www.bloter.net/archives/230851)
 
