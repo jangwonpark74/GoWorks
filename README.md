@@ -55,6 +55,7 @@ Go를 설치하고 .vimrc에 Plugin 'fatih/vim-go' 와 Plugin 'zchee/deoplete-go
 
 ## Go Libraries
  - [encoding/csv](https://medium.com/@KeithAlpichi/gos-standard-library-by-example-encoding-csv-75f098169822)
+ - [Reading CSV](https://medium.com/@ankurraina/reading-a-simple-csv-in-go-36d7a269cecd)
 
 ## Go TDD
  - [TDD with Go](https://golangkorea.github.io/post/tdd-with-golang/)
