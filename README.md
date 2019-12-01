@@ -53,6 +53,9 @@ Go를 설치하고 .vimrc에 Plugin 'fatih/vim-go' 와 Plugin 'zchee/deoplete-go
  - [bad go slice of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
  - [Golang tips: why the pointer to slice is useful & tricky bugs](https://medium.com/swlh/golang-tips-why-pointers-to-slices-are-useful-and-how-ignoring-them-can-lead-to-tricky-bugs-cac90f72e77b)
 
+## Go Libraries
+ - [encoding/csv](https://medium.com/@KeithAlpichi/gos-standard-library-by-example-encoding-csv-75f098169822)
+
 ## Go TDD
  - [TDD with Go](https://golangkorea.github.io/post/tdd-with-golang/)
  - [Testing in Go by Example, Part1](http://smartystreets.com/blog/2015/02/go-testing-part-1-vanillla)
