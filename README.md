@@ -32,6 +32,14 @@ Go를 설치하고 .vimrc에 Plugin 'fatih/vim-go' 와 Plugin 'zchee/deoplete-go
 ## Go for beginners 
  - [How do beginners Learn go](https://changelog.com/gotime/85)
 
+### Go Map initialization
+Creating an empty hash map. Which ensures that you will never get a runtime panic.
+```
+    var dictionary = map[string]string{}
+    // OR
+    var dictionary = make(map[string]string)
+  
+```
 ## Learn Concurrency
  - [Golang Learn Concurrency](https://github.com/golang/go/wiki/LearnConcurrency)
  - [Fundamentals of Concurrency in go](https://yourbasic.org/golang/concurrent-programming/)
