@@ -285,6 +285,7 @@ Most of the leak in go program
 
 ## Go CLI 
  - [build an awesome cli app in go](https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/)
+ - [Writing Friendly Command Line](https://blog.gopheracademy.com/advent-2019/cmdline/)
 
 
 ## Build Web Application with Golang
