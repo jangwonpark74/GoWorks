@@ -127,6 +127,8 @@ but only if we used the right programming patterns:
 ### Go Interpretor  
 - [Go AST](http://notes.eatonphil.com/interpreting-go.html)
 
+### Go handwritten parser
+- [Gopher Academy Blog : Handwritten Parsers & Lexers in Go](https://blog.gopheracademy.com/advent-2014/parsers-lexers/)
 
 ### Go dissembly
 ```
