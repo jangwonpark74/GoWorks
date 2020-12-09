@@ -19,6 +19,7 @@ Go를 설치하고 .vimrc에 Plugin 'fatih/vim-go' 와 Plugin 'zchee/deoplete-go
 ## Go Test
  - [Testable Example](https://blog.golang.org/examples)
  - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+ - [Testify library github.com/stretchr/testify](https://github.com/stretchr/testify)
 
 ## Learning Go - Miek Gieben
  - [Learning go by Miek Gieben](https://www.miek.nl/go/) : this site is good for quick speedup of go programming experience.
