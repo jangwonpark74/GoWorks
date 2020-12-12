@@ -27,6 +27,10 @@ Go를 설치하고 .vimrc에 Plugin 'fatih/vim-go' 와 Plugin 'zchee/deoplete-go
 ## Practice Go
  - [Example Programs for Go practice](https://github.com/plutov/practice-go)
 
+
+## Go Program Idioms 
+ - [ Go vs Rust Idiom ](https://programming-idioms.org/cheatsheet/Go/Rust)
+
 ## Go in 5 Minutes
  - [Go in 5 Minutes for various programming skills](https://www.goin5minutes.com/)
 
