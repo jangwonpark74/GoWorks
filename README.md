@@ -101,6 +101,7 @@ but only if we used the right programming patterns:
  - [작고 가벼운 Go Container 뛰우기](https://blog.chann.kr/posts/scratch-container-with-go/)
  - [Containerize This! How to build Golang Dockerfiles](https://www.cloudreach.com/en/insights/blog/containerize-this-how-to-build-golang-dockerfiles/)
  - [Docker file example](https://github.com/callicoder/go-docker)
+ - [Build docker container image in go](https://bitfieldconsulting.com/golang/docker-image)
 
 ## Go Application Structure
 - [Go Flat App Structure](https://www.calhoun.io/flat-application-structure/)
