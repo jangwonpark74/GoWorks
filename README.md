@@ -81,6 +81,7 @@ Creating an empty hash map. Which ensures that you will never get a runtime pani
 
 ## Go Performance Design Pattern 
  - [Einstein Analytics Migration from python to Go](https://stackoverflow.blog/2019/10/07/how-salesforce-converted-einstein-analytics-to-go/)
+ - [Go benchmark & Assembly level analysis : A tale of two copies](https://storj.io/blog/a-tale-of-two-copies)
 
 ```
 Our team created a proof of concept (POC) that achieved near parity in performance with the C engine, 
