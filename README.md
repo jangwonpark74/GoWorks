@@ -16,6 +16,9 @@ Go를 설치하고 .vimrc에 Plugin 'fatih/vim-go' 와 Plugin 'zchee/deoplete-go
  - [Understanding Go Pointers](https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go?utm_source=golangweekly&utm_medium=social&utm_campaign=do-pointers)
  - [go walkthrough io package](https://mingrammer.com/translation-go-walkthrough-io-package/)
 
+## Go Design
+ - [Go 1.18 Generic](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md)
+
 ## Go Test
  - [Testable Example](https://blog.golang.org/examples)
  - [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
