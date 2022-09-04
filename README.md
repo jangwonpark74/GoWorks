@@ -71,6 +71,9 @@ Creating an empty hash map. Which ensures that you will never get a runtime pani
  - [bad go slice of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
  - [Golang tips: why the pointer to slice is useful & tricky bugs](https://medium.com/swlh/golang-tips-why-pointers-to-slices-are-useful-and-how-ignoring-them-can-lead-to-tricky-bugs-cac90f72e77b)
 
+## Go memory 최적화 
+ - [Luft memory 최적화 경험](https://www.youtube.com/watch?v=LQTI5jkXOR0&ab_channel=GolangKorea)
+
 ## Go Libraries
  - [encoding/csv](https://medium.com/@KeithAlpichi/gos-standard-library-by-example-encoding-csv-75f098169822)
  - [Reading CSV](https://medium.com/@ankurraina/reading-a-simple-csv-in-go-36d7a269cecd)
