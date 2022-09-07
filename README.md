@@ -48,6 +48,9 @@ Creating an empty hash map. Which ensures that you will never get a runtime pani
     var dictionary = make(map[string]string)
   
 ```
+### Go Interface
+ - Go Interface Internals(https://research.swtch.com/interfaces)
+ 
 ## Learn Concurrency
  - [Golang Learn Concurrency](https://github.com/golang/go/wiki/LearnConcurrency)
  - [Fundamentals of Concurrency in go](https://yourbasic.org/golang/concurrent-programming/)
